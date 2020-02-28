@@ -1,0 +1,35 @@
+
+
+.input-container {
+    margin-top: 12px;
+}
+
+.chat-messages {
+    position: absolute;
+    left: 700px;
+    z-index: 1;
+  }
+/*
+.toggle-emoji {
+    border: none;
+    width: 50px;
+    height: auto;
+    padding: 0;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .toggle-emoji svg {
+    width: 28px;
+    height: 28px;
+  }
+ 
+*/
+
+.emoji-mart {
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+  }

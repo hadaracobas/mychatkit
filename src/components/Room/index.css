@@ -1,0 +1,28 @@
+.room {
+    border: 1px solid lightgray;
+    width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    cursor: pointer;
+    background-color: #EDEBD7;
+    position: relative;
+
+}
+
+.room-name {
+    font-weight: bold;
+}
+
+.remove-room-button {
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    font-size: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D05353;
+    color: white;
+    padding: 0 5px;
+    
+}
+

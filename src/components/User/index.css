@@ -1,0 +1,37 @@
+.user {
+    border: 1px solid lightgray;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #EDEBD7;
+    position: relative;
+}
+
+
+.user span {
+    font-weight: bold;
+}
+
+
+
+.online-button {
+    background-color: #138A36;
+    padding: 8px;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 14px;
+    left: 10px;
+    cursor: none;
+}
+
+.offline-button {
+    background-color: #E3170A;
+    padding: 8px;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 14px;
+    left: 10px;
+    cursor: none;
+}

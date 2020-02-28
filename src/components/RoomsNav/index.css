@@ -1,0 +1,38 @@
+/* 
+COLORS:
+primary (orange): #E08E45
+secondary (yellow): #F9E784
+third (pink-red): #D05353
+text black: #0F1108
+text gray: #423E37
+background: #EDEBD7
+online green: #138A36
+offline red: #E3170A
+*/
+
+.roomsnav-container {
+    border: 1px solid lightgray;
+    width: 230px;
+    margin-right: 10px;
+    box-shadow: 1px 2px 1px lightgray;
+    
+}
+
+.active-room-title {
+    color: lightgray;
+    font-weight: bold;
+}
+
+.the-active-room-title-dinamic {
+    color: #423E37;
+    font-weight: bold;
+}
+
+.add-room-text-label {
+    color: #423E37;
+    padding: 5px;
+    margin: 5px;
+    font-size: 12px;
+      
+}
+
